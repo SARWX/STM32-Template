@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.common": "makefile",
+        "stm32f10x_rcc.h": "c"
+    }
+}
